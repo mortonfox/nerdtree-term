@@ -2,8 +2,9 @@
 
 ## Introduction
 
-This NERDTree plugin adds a menu item to open the selected folder in Terminal.
-(i.e. open a shell window and cd to that folder)
+nerdtree\_term is a [NERDTree](https://github.com/scrooloose/nerdtree) plugin
+that adds a menu item to open the selected folder in Terminal. (i.e. open a
+shell window and cd to that folder)
 
 ## Installation
 
