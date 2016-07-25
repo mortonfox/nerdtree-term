@@ -3,14 +3,14 @@
 ## Introduction
 
 nerdtree\_term is a [NERDTree](https://github.com/scrooloose/nerdtree) plugin
-that adds a menu item to open the selected folder in Terminal. (i.e. open a
-shell window and cd to that folder)
+that adds a menu item to open the selected folder in Mac OS X Terminal. (i.e.
+open a shell window and cd to that folder)
 
 ## Installation
 
 ### Pathogen
 
-Use the following commands:
+Run the following commands in a shell:
 
     cd ~/.vim/bundle
     git clone https://github.com/mortonfox/nerdtree-term.git
