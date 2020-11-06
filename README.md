@@ -12,8 +12,7 @@ open a shell window and cd to that folder)
 
 Run the following commands in a shell:
 
-    cd ~/.vim/bundle
-    git clone https://github.com/mortonfox/nerdtree-term.git
+    git clone https://github.com/mortonfox/nerdtree-term.git ~/.vim/bundle/nerdtree-term
 
 ### Vundle
 
